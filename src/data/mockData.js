@@ -1,5 +1,4 @@
 import { tokens } from "../theme";
-import React from "react";
 
 export const mockDataTeam = [
   {
