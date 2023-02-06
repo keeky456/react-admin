@@ -110,7 +110,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   heigh="100px"
-                  scr={`../../assets/dolphin.png`}
+                  // src="../../assets/kaia.jpeg"
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
@@ -125,7 +125,7 @@ const Sidebar = () => {
                   Kaia Hansen
                 </Typography>
                 <Typography varient="h5" color>
-                  Dog Mother
+                  CS major
                 </Typography>
               </Box>
             </Box>
